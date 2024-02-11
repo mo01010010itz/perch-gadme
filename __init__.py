@@ -1,1 +1,1 @@
-from .chirp.inference import models
+from chirp.inference import models
